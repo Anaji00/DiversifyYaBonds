@@ -1,0 +1,5 @@
+com\stockbest\portfolio_service\model\Portfolio.class
+com\stockbest\portfolio_service\PortfolioServiceApplication.class
+com\stockbest\portfolio_service\controller\PortfolioController.class
+com\stockbest\portfolio_service\repository\PortfolioRepository.class
+com\stockbest\portfolio_service\service\PortfolioService.class
